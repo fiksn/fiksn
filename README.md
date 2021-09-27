@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a Software Engineer passionate about Bitcoin & Lightning ⚡ (running a full node to support the network) + Ethereum (been doing a bit of Solidity development and security auditing).
+
+Working in the DevSecOps field (I have experience with configuration management through Puppet) but I prefer [Nix](https://nixos.org/) whenever possible. Participating in CTFs when I have time.
+
+📫 Reach me on twitter: @fiksn
