@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a Software Engineer passionate about Bitcoin & Lightning ⚡ (running a full node to support the network) + Ethereum (been doing a bit of Solidity development and some simple security auditing).
+My name is Gregor. I’m a Software Engineer passionate about Bitcoin & Lightning ⚡ (running a full node to support the network) + Ethereum (been doing a bit of Solidity development and some simple security auditing).
 
 My background is being a [Java](https://www.java.com/en/)/.NET Backend Engineer, but nowadays I just hack stuff in [Bash](https://www.gnu.org/software/bash/), [Golang](https://golang.org) and (lots of) [YAML](https://noyaml.com) :) Looking to learn a bit of [Rust](https://www.rust-lang.org) too.
 
